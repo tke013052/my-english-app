@@ -1,14 +1,162 @@
 [
   {
-    "jp": "明日は会議があります",
-    "en": "We have a meeting tomorrow."
+    "id": 1,
+    "jp": "こんにちは、Martin。このコンベンションセンターでの本イベントの設営をあなたのところのスタッフと手伝ってくれて、ありがとうございます。",
+    "en": "Hello, Martin. Thank you for helping set up this event here at the convention center with your staff."
   },
   {
-    "jp": "私は新しいプロジェクトを始めました",
-    "en": "I started a new project."
+    "id": 2,
+    "jp": "今日、ケータリング業者から連絡はありましたか？",
+    "en": "Have you heard from the caterers today?"
   },
   {
-    "jp": "駅までどのくらいかかりますか？",
-    "en": "How long does it take to get to the station?"
+    "id": 3,
+    "jp": "驚いたことに、まだ何もありません。",
+    "en": "Nothing yet, surprisingly."
+  },
+  {
+    "id": 4,
+    "jp": "私は心配になってきています。",
+    "en": "I'm getting concerned."
+  },
+  {
+    "id": 5,
+    "jp": "同感です。先方に電話しましょう。",
+    "en": "I agree. Let's give them a call."
+  },
+  {
+    "id": 6,
+    "jp": "何か伝達の不備や他の種類のミスがあったかもしれません。",
+    "en": "Maybe there's been some miscommunication or some other type of mistake."
+  },
+  {
+    "id": 7,
+    "jp": "そうですね。先方がこのイベントの正確な日程を把握しているとよいのですが。",
+    "en": "I hope they have the correct date for this event."
+  },
+  {
+    "id": 8,
+    "jp": "表彰式はほんの数時間後に始まる予定です。",
+    "en": "The award ceremony is starting in just a few hours."
+  },
+  {
+    "id": 9,
+    "jp": "もしもし、うちの会社のクラウドデータベースにアクセスできないのでお電話しています。",
+    "en": "Hello, I'm calling because I can't access my company's cloud database."
+  },
+  {
+    "id": 10,
+    "jp": "助けていただくことはできますか？",
+    "en": "Would you be able to help me?"
+  },
+  {
+    "id": 11,
+    "jp": "もちろんです。どちらの会社からお電話されていますか？",
+    "en": "Sure thing. What company are you calling from?"
+  },
+  {
+    "id": 12,
+    "jp": "Tuckahoe保険グループです。当社は全てのものをオンラインに保存しています。",
+    "en": "Tuckahoe Insurance Group. We store everything online."
+  },
+  {
+    "id": 13,
+    "jp": "これは私には大事です。",
+    "en": "This is a real problem for me."
+  },
+  {
+    "id": 14,
+    "jp": "私は商品マネージャーなのですが、当社のどの商品ファイルにもアクセスできないのです。",
+    "en": "I'm a product manager, and I can't access the files for any of our products."
+  },
+  {
+    "id": 15,
+    "jp": "それは申し訳ございません。承知しました。少しの間、電話を保留にします。",
+    "en": "I'm sorry to hear that. OK, I'm going to place you on hold for a moment."
+  },
+  {
+    "id": 16,
+    "jp": "専門家にこの通話に加わってもらいます。",
+    "en": "I'm getting a specialist to join us on the line."
+  },
+  {
+    "id": 17,
+    "jp": "こんにちは、Mark。このデザインの修正版に目を通していただくことはできますか？",
+    "en": "Hi, Mark. Would you be able to look over this design revision?"
+  },
+  {
+    "id": 18,
+    "jp": "それは、当社がずっと取り組んでいる携帯電話の試作品用ですか？",
+    "en": "Is it for the prototype mobile phones we've been working on?"
+  },
+  {
+    "id": 19,
+    "jp": "そうです。製品開発チームにとっての最重要プロジェクトです。",
+    "en": "Yes. It's the most important project for the product development team."
+  },
+  {
+    "id": 20,
+    "jp": "分かりました。私は何を吟味すればよいでしょうか。",
+    "en": "OK. What would you like me to examine?"
+  },
+  {
+    "id": 21,
+    "jp": "電話機を覆うプラスチック製カバーがおあまり頑丈ではなく、簡単にひびが入ってしまったのです。",
+    "en": "The plastic shell covering the phone wasn't very durable and cracked easily."
+  },
+  {
+    "id": 22,
+    "jp": "私たちは新しい素材を使いたいのですが、それにはデザインを少し変える必要があります。",
+    "en": "We want to use a new material, but it requires us to change the design a little."
+  },
+  {
+    "id": 23,
+    "jp": "わかりました。プラスチック外装が割れるわけにはいきません。",
+    "en": "OK, yes. We can't have the plastic shell breaking."
+  },
+  {
+    "id": 24,
+    "jp": "あなたのデザイン修正版を見てみます。",
+    "en": "I'll take a look at your design revision."
+  },
+  {
+    "id": 25,
+    "jp": "もしもし、こちらはMinetti'sペット用品店のJi-Yeon Parkです。",
+    "en": "Hi, this is Ji-Yeon Park from Minetti's Pet Supplies."
+  },
+  {
+    "id": 26,
+    "jp": "私はついこの間、そちらのプレミアムドライキャットフードを30袋注文しました。",
+    "en": "I recently placed an order for 30 bags of your premium dry cat food."
+  },
+  {
+    "id": 27,
+    "jp": "こんにちは、Park様。そのご注文のことで問題がございますか？",
+    "en": "Hello, Ms. Park. Is there a problem with your order?"
+  },
+  {
+    "id": 28,
+    "jp": "ええと、私のところではこの製品が最近よく売れていて、注文を30袋から50袋に変更したいと思っていました。",
+    "en": "Well, I've been selling a lot of this product recently, and I was hoping to change my order from 30 bags to 50."
+  },
+  {
+    "id": 29,
+    "jp": "変更するには遅すぎるとは知っていますが、試しに言ってみました。",
+    "en": "I know it's technically too late to change, but I just thought I'd see."
+  },
+  {
+    "id": 30,
+    "jp": "運が良いですね。私どもは、お客様の発送準備をまだ完了していません。",
+    "en": "You're in luck. We haven't finalized your shipment yet."
+  },
+  {
+    "id": 31,
+    "jp": "50袋送るのは問題ありません。",
+    "en": "I can send you 50 bags, no problem."
+  },
+  {
+    "id": 32,
+    "jp": "素晴らしい、ありがとうございます。電話が終わり次第、銀行振込をいたします。",
+    "en": "Wonderful, thanks. I'll send the bank transfer as soon as we finish this call."
   }
 ]
