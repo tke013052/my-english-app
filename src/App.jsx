@@ -38,7 +38,10 @@ function App() {
         backgroundColor: "white",
       }}
     >
-      <h1>{showAnswer ? sentences[index].en : sentences[index].jp}</h1>
+      <h1 style={{ fontSize: "24px" }}>
+        {showAnswer ? sentences[index].en : sentences[index].jp}
+      </h1>
+
       <button
         onClick={handleClick}
         style={{
