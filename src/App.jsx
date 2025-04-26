@@ -1,18 +1,7 @@
 import { useState } from "react";
+import sentences from "./sentences.json";
 
 function App() {
-  const sentences = [
-    { jp: "明日は会議があります", en: "We have a meeting tomorrow." },
-    {
-      jp: "私は新しいプロジェクトを始めました",
-      en: "I started a new project.",
-    },
-    {
-      jp: "駅までどのくらいかかりますか？",
-      en: "How long does it take to get to the station?",
-    },
-  ];
-
   const [index, setIndex] = useState(0); // 今何問目か
   const [showAnswer, setShowAnswer] = useState(false); // 英語を見せるかどうか
 
