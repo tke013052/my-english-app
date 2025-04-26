@@ -24,7 +24,11 @@ function App() {
         alignItems: "center",
         justifyContent: "center",
         height: "100vh",
+        width: "100vw", // ←これ追加！
         backgroundColor: "white",
+        margin: 0, // 念のため追加
+        padding: 0,
+        overflowX: "hidden", // 横スクロール防止
       }}
     >
       <h1 style={{ fontSize: "24px", color: "black" }}>
